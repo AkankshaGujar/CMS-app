@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(15, 93, 171);
+    width: 70%;
+    height:85%;
+    position:absolute;
+    top:53px;
+    right:10px
+}
+form{
+    padding: 0%;
+    text-align: center;
+    position: absolute;
+    top:100px;
+    right:360px;
+
+}
+.btn{
+    background-color: aliceblue;
+}

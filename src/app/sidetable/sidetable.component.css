@@ -1,0 +1,57 @@
+/**<aside {
+	color: black;
+}
+
+aside input[type="text"], input[type="email"] {
+	margin-bottom: 10px;
+}
+#leftMenu ul {
+	list-style:none;
+	padding: 0;
+}
+
+#leftMenu h3 {
+	color: black;
+	padding: 0;
+	padding-bottom: 8px;
+	border-bottom: black 2px;
+	font-size: 16px;
+}
+
+#leftMenu li {
+	list-style: none;
+	padding: 15px 0 8px 0;
+	border-bottom: 1px dashed black;
+}
+
+#leftMenu a, #menu a:visited {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+}**/
+
+table,  td {
+    border: 0.5px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 30px;
+  }
+table a:hover{
+    padding-inline-end: 10px;
+    background-color: rgb(19, 127, 210);
+    color:azure
+}
+.table a{
+    color: black;
+}
+table{
+	position:absolute;
+	left:50px;
+}
+svg{
+	position:absolute;
+	left:5px;
+	color:rgb(13, 136, 174); 
+}

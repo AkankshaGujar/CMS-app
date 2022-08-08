@@ -1,0 +1,55 @@
+table,  td {
+    border: 0.3px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+  }
+table a:hover{
+  
+    padding-inline-end: 10px;
+    background-color: rgb(19, 127, 210);
+    color:azure
+}
+.table a{
+    color: black;
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  .button1{
+    position:absolute;
+    bottom: 100px;
+    right: 620px;
+  }
+  table
+  {
+    position:absolute;
+    top: 190px;
+    right: 200px;; 
+  }
+  h1{
+    position:absolute;
+    top: 80px;
+    right: 510px;
+    color: rgb(13, 136, 174);
+  }
+  svg{
+    position: absolute;
+    top: 90px;
+    right: 720px;
+    color:rgb(13, 136, 174); 
+    size: 100px;
+  }
+  hr{
+    position:absolute;
+    top: 120px;
+    right:170px;
+  }
+ h3{
+  position:absolute;
+  top:140px;
+  right: 550px;
+  color:rgb(13, 136, 174); 
+ }
